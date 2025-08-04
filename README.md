@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **BernardoOrdonez/BernardoOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi my name is Bernardo Ordonez, I am student of University of Santa Maria (UFSM)
+## Im working wesites to grannys know to use. 
+### Eu saibo? Fluency
+| C# | noob |
+| ----------- | ----------- |
+
+| HTML&CSS | Fluent |
+| ----------- | ----------- |
+
+| C | Fluent |
+| ----------- | ----------- |
+
+| Java | Ihate |
+| ----------- | ----------- |
+
