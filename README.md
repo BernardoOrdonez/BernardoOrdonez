@@ -14,18 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi my name is Bernardo Ordonez, I am student of University of Santa Maria (UFSM)
-## Im working wesites to grannys know to use. 
-### Eu saibo? Fluency
+# Hello There!! my name is Bernardo Ordonez.
+## Im working websites to grannys know to use. 
+### 
+
+|Eu saibo? | Fluency |
+| ----------- | ----------- |
 | C# | noob |
-| ----------- | ----------- |
-
 | HTML&CSS | Fluent |
-| ----------- | ----------- |
-
 | C | Fluent |
-| ----------- | ----------- |
-
 | Java | Ihate |
-| ----------- | ----------- |
+| Database| Average|
 
+## My formation 
+- High School Completed
+- Graduating in Telecommunications Engineering in University of Santa Maria RS, Brazil(UFSM).
+- Doing I.T for Fun and love in Politécnico of (UFSM)
+
+## Interests and Hobbies
+-  Likes Security Web
+- Learning Strategics Communications
+- Learning Java, C++ and C#
