@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello There!! my name is Bernardo Ordonez.
-## Im working websites to grannys know to use. 
+## Im working websites to grannys knew to use. 
 ### 
 
 |Eu saibo? | Fluency |
