@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello There!! my name is Bernardo Ordonez.
-## Im working websites to grannys knew to use. 
+## Im working websites to grannys to use. 
 ### 
 
 |Eu saibo? | Fluency |
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - Doing I.T for Fun and love in Politécnico of (UFSM)
 
 ## Interests and Hobbies
--  Likes Security Web
+-  Likes Web Security
 - Learning Strategics Communications
 - Learning Java, C++ and C#
